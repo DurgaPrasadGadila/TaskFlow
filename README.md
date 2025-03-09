@@ -12,42 +12,45 @@ Advanced Task and Note Management Web Application Built With Bolt using Reactjs,
 ![image](https://github.com/user-attachments/assets/628231ec-1549-46cc-9540-f158c0175e39)
 
 # Tech Stack
-### Frontend:
-React 18 with TypeScript
-Vite as the build tool and dev server
-Tailwind CSS for styling
-React Router for navigation
-Lucide React for icons
-React Hot Toast for notifications
 
-### Backend & Database:
-#### Supabase for:
-PostgreSQL database
-Authentication system
-Row Level Security (RLS)
-Real-time subscriptions
+## Frontend:
+- **React 18** with TypeScript
+- **Vite** as the build tool and dev server
+- **Tailwind CSS** for styling
+- **React Router** for navigation
+- **Lucide React** for icons
+- **React Hot Toast** for notifications
 
-### Database Schema:
-#### Tasks table with:
-Priority levels (low/medium/high)
-Categories (short-term/long-term)
-Due dates and completion status
-#### Notes table with:
-Title and content
-Pinning functionality
-Timestamps
+## Backend & Database:
+### Supabase for:
+- **PostgreSQL database**
+- **Authentication system**
+- **Row Level Security (RLS)**
+- **Real-time subscriptions**
 
-### Security:
-Row Level Security (RLS) policies
-User authentication with email/password
-User email confirmation when creating the account
-Protected routes and data access
+## Database Schema:
+### Tasks Table:
+- Priority levels (**low / medium / high**)
+- Categories (**short-term / long-term**)
+- Due dates and completion status
 
-### Development Tools:
-Vite for fast development and building
-ESLint for code linting
-TypeScript for type safety
-Environment variables for configuration
-This stack provides a modern, secure, and scalable foundation for the task and note management application.
+### Notes Table:
+- Title and content
+- Pinning functionality
+- Timestamps
+
+## Security:
+- **Row Level Security (RLS) policies**
+- **User authentication with email/password**
+- **User email confirmation** when creating the account
+- **Protected routes and data access**
+
+## Development Tools:
+- **Vite** for fast development and building
+- **ESLint** for code linting
+- **TypeScript** for type safety
+- **Environment variables** for configuration
+
+This stack provides a **modern, secure, and scalable** foundation for the task and note management application.
 
 
