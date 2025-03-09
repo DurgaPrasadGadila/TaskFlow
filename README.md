@@ -2,7 +2,7 @@
 Advanced Task and Note Management Web Application Built With Bolt using Reactjs, TailwindCSS, TypeScript, Supabase(PostgreSQL) and Netlify for Hosting.
 
 # Web Interface
-- **Inspired from Groww!**
+- Color Theme **Inspired from Groww!**
 - **Responsive Design** (mobile, tablet, desktop)
 
 ![image](https://github.com/user-attachments/assets/1439de1b-cd0a-4c27-9633-8066e807754b)
