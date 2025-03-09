@@ -3,7 +3,7 @@ Advanced Task and Note Management Web Application Built With Bolt using Reactjs,
 
 # Web Interface
 **Inspired from Groww!**
-
+- **Responsive Design** (mobile, tablet, desktop)
 ![image](https://github.com/user-attachments/assets/1439de1b-cd0a-4c27-9633-8066e807754b)
 ![image](https://github.com/user-attachments/assets/3a87dda5-697b-4889-8074-92d4b7fa32a7)
 ![image](https://github.com/user-attachments/assets/d63015ce-1ac9-44b6-9251-2c7b4e38a329)
