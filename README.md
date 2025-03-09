@@ -12,6 +12,8 @@ Advanced Task and Note Management Web Application Built With Bolt using Reactjs,
 ![image](https://github.com/user-attachments/assets/0b662544-7ccd-4ff5-ae1f-a601b5e72f34)
 ![image](https://github.com/user-attachments/assets/89e97cb7-764d-4ccc-8963-24a5f3e0e9a2)
 ![image](https://github.com/user-attachments/assets/628231ec-1549-46cc-9540-f158c0175e39)
+![image](https://github.com/user-attachments/assets/0ae78f11-4a55-4b69-8c53-e23e2a959095)
+
 
 # Tech Stack
 
