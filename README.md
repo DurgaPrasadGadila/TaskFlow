@@ -42,9 +42,9 @@ Advanced Task and Note Management Web Application Built With Bolt using Reactjs,
 - Timestamps
 
 ## Security:
-- **Row Level Security (RLS) policies**
-- **User authentication with email/password**
 - **User email confirmation** when creating the account
+- **User authentication with email/password**
+- **Row Level Security (RLS) policies**
 - **Protected routes and data access**
 
 ## Development Tools:
